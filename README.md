@@ -14,9 +14,7 @@ A fun and interactive React-based implementation of the classic dice game **Tenz
 
 ---
 
-## 🚀 Demo
-
-Live demo: Coming Soon
+## 🚀 Demo: [https://sifatahammed.github.io/Tenzies/](https://sifatahammed.github.io/Tenzies/)
 
 ---
 
