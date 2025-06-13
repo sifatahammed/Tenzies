@@ -1,4 +1,5 @@
 # 🎲Tenzies-A-Mini-Game
+## 🚀 Demo: [https://sifatahammed.github.io/Tenzies/](https://sifatahammed.github.io/Tenzies/)
 
 A fun and interactive React-based implementation of the classic dice game **Tenzies**. Roll the dice until all values are the same. Click each die to hold its value between rolls!
 
@@ -11,10 +12,6 @@ A fun and interactive React-based implementation of the classic dice game **Tenz
 - 🎉 Confetti animation on win
 - ♿️ Accessible buttons with ARIA labels
 - 🔄 "New Game" button appears when you win
-
----
-
-## 🚀 Demo: [https://sifatahammed.github.io/Tenzies/](https://sifatahammed.github.io/Tenzies/)
 
 ---
 
