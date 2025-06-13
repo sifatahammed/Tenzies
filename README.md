@@ -2,7 +2,7 @@
 
 A fun and interactive React-based implementation of the classic dice game **Tenzies**. Roll the dice until all values are the same. Click each die to hold its value between rolls!
 
-![Game Screenshot](images/Screen-Shot.PNG)
+![Game Screenshot](images/screen-shot.PNG)
 
 ## 🧩 Features
 
